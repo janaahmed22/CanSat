@@ -1,4 +1,4 @@
-#CanSat Arduino Simulation Project
+# CanSat Arduino Simulation Project
 
 ## Files
 - `project.ino` → Arduino source code
@@ -11,5 +11,5 @@
 - Powered via Arduino 5V and GND
 
 ## Alternative Simulation
-If Proteus libraries are unavailable, the circuit is also implemented in Tinkercad:
+The circuit is also implemented in Tinkercad:
 [View Tinkercad Simulation](https://www.tinkercad.com/things/diHTx8NR3se-cansat?sharecode=WwnoMUZRjOrQIu_7hi0kTHWkVvbnXO5NgmFtm-rAR54)
