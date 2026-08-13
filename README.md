@@ -1,4 +1,4 @@
-# Arduino Simulation Project
+#CanSat Arduino Simulation Project
 
 ## Files
 - `project.ino` → Arduino source code
